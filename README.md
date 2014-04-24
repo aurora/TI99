@@ -1,4 +1,4 @@
-ti99
-====
+TI99 Archive
+============
 
-Archive of my TI99 Software
+Archived software i wrote for my TI-99/4A ... years ago ...
